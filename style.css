@@ -15,7 +15,7 @@ html, body { height: 100%; font-family: "Helvetica Neue", Arial, sans-serif; col
 
 /* Imagens laterais */
 .img-lateral {
-  width: 210px;
+  width: 200px;
   height: auto;
   object-fit: contain;
 }
