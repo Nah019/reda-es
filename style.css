@@ -3,15 +3,6 @@
 html, body { height: 100%; font-family: "Helvetica Neue", Arial, sans-serif; color: #222; }
 
 
-/* Imagem de cobertura no topo */
-.imagem-cobertura {
-  width: 100%;
-  height: auto;
-  display: block;
-  margin: 0;
-  padding: 0;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.35);
-}
 
 /* Header com imagens e título centralizado */
 .site-header {
@@ -24,7 +15,7 @@ html, body { height: 100%; font-family: "Helvetica Neue", Arial, sans-serif; col
 
 /* Imagens laterais */
 .img-lateral {
-  width: 180px;
+  width: 1800px;
   height: auto;
   object-fit: contain;
 }
