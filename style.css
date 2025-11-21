@@ -2,6 +2,40 @@
 * { box-sizing: border-box; margin: 0; padding: 0; }
 html, body { height: 100%; font-family: "Helvetica Neue", Arial, sans-serif; color: #222; }
 
+
+/* Imagem de cobertura no topo */
+.imagem-cobertura {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0;
+  padding: 0;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.35);
+}
+
+/* Header com imagens e título centralizado */
+.site-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+  margin-top: 0;
+}
+
+/* Imagens laterais */
+.img-lateral {
+  width: 180px;
+  height: auto;
+  object-fit: contain;
+}
+
+/* Conteúdo central */
+.titulo-centro {
+  text-align: center;
+}
+
+
+
 /* --- HEADER --- */
 .site-header {
   text-align: center;
