@@ -110,7 +110,7 @@ html, body { height: 100%; font-family: "Helvetica Neue", Arial, sans-serif; col
   border: 2px solid rgba(0,0,0,0.06);
   padding: 8px 12px;
   border-radius: 6px;
-  background: rgba(255,255,255,0.9);
+  background: #ffc6c6(255,255,255,0.9);
 }
 
 /* centralizando a caixa de redação com largura adaptada a desktop */
