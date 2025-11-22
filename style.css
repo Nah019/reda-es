@@ -145,7 +145,7 @@ html, body { height: 100%; font-family: "Helvetica Neue", Arial, sans-serif; col
   border-radius: 50%;
   border: none;
   background: #ff6fa8;
-  color: #fff;
+  color: #ffc6c6;
   font-weight: 700;
   display: none; /* aparece via JS após scroll */
   align-items: center;
