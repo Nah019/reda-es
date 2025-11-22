@@ -6,7 +6,7 @@ html, body { height: 100%; font-family: "Helvetica Neue", Arial, sans-serif; col
 .site-header {
   text-align: center;
   padding: 36px 20px 10px;
-  background: #fff;
+  background: #ffc6c6;
 }
 .site-title {
   font-size: 48px;
