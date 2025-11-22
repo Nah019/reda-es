@@ -6,7 +6,7 @@ html, body { height: 100%; font-family: "Helvetica Neue", Arial, sans-serif; col
 .site-header {
   text-align: center;
   padding: 36px 20px 10px;
-  background: #ffc6c6;
+  background: #ffffff;
 }
 .site-title {
   font-size: 48px;
@@ -34,7 +34,7 @@ html, body { height: 100%; font-family: "Helvetica Neue", Arial, sans-serif; col
 
 /* Each card */
 .card {
-  background: #fff;
+  background: #ffc6c6;
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 0 6px 18px rgba(0,0,0,0.06);
